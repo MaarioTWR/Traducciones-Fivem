@@ -1,3 +1,4 @@
+--By: MrPotrex
 Locales['es'] = {
   -- Inventory
   ['cash'] = 'Efectivo',
