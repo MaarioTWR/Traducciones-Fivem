@@ -1,3 +1,4 @@
+--By MrPotrex
 Locales['es'] = {
   ['actions']                = 'Acciones',
   ['deposit_amount']         = 'Cantidad del deposito',
